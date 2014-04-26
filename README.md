@@ -1,4 +1,4 @@
 ng-eats
 =======
 
-fine controls events
+fine control events
