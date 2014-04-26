@@ -14,7 +14,7 @@
         });
 
       }
-    }
+    };
   });
 
   angular.module('eats').directive('eatEvents', function(){
@@ -28,7 +28,7 @@
         });
 
       }
-    }
+    };
   });
 
   angular.module('eats').directive('eatBubbles', function(){
@@ -41,7 +41,7 @@
         });
 
       }
-    }
+    };
   });
 
 })(window.angular);
